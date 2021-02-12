@@ -1,0 +1,46 @@
+@media (max-width: 991px){
+    .navdis {
+        width: 100% !important;
+    }
+
+    .hti h1{
+        padding-top: 20px;
+        color: gray;
+        font-size: 40px;
+    }
+
+    .htia{
+        display: block;
+    }
+
+    .htia img{
+        width: 500px;
+    }
+
+   .htib {
+       margin-top: 370px;
+       margin-left: 0px;
+       width: 500px;
+   }
+
+   .htib hr{
+       width: 470px;
+   }
+
+   .htibu button{
+    margin-left: 160px;
+    font-size: 20px;
+    width: 120px;
+    height: 60px;
+}
+
+
+
+}
+
+
+@media (max-width: 991px){
+    .navtit {
+        margin-left: 10px;
+    }
+}
